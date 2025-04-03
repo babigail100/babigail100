@@ -12,8 +12,10 @@
 
 ## Projects
 - **[Women in Data Science Worldwide Competition](https://github.com/babigail100/wids_project)** — *fMRI-based ADHD diagnosis and sex classification*
-- **[Causal Inference: Does Exercise Improve Mental Health?](https://github.com/babigail100/causal_inference)** — *["Assessing causal impact of exercise on depression/anxiety"]*
-- **[Text Mining Project: Rafting Company Reviews](Project Link)** — *["Sentiment analysis, topic modeling, and abstract-based summarization on rafting company reviews."]*
+- **[Causal Inference: Does Exercise Improve Mental Health?](https://github.com/babigail100/causal_inference)** — *Assessing causal impact of exercise on depression/anxiety*
+<!--
+- **Text Mining Project: Rafting Company Reviews** — *Sentiment analysis, topic modeling, and abstract-based summarization on rafting company reviews.*
+-->
 
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/-abigailbrown/)  
