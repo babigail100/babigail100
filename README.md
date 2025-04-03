@@ -2,8 +2,8 @@
 
 ## About Me
 - Studying **Data Analytics** at **Utah State University**; Minoring in **Mathematics** and **Statistics**
-- Interested in data centered around people
-- River rat in the summer & data analyst for the rest of the year
+- Passionate about human-centered data analysis
+- River rafting expert in the summer & data analyst for the rest of the year
 
 ## Tools
 - Languages: ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat&logo=postgresql&logoColor=white)
